@@ -39,7 +39,7 @@ I'm a Brazilian student passionate about cybersecurity and ethical hacking. I st
 
 ## Connect with Me
 
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-brigasduin-9FEF00?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/brigasduin)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-brigasduin-9FEF00?style=flat&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2480347?profile-top-tab=machines&ownership-period=1M&profile-bottom-tab=prolabs)
 
 ---
 
