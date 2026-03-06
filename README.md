@@ -32,6 +32,9 @@ I'm a Brazilian student passionate about cybersecurity and ethical hacking. I st
 | Operating Systems | Kali Linux, Windows |
 | Web | Burp Suite (learning) |
 
+---
+- More writeups coming soon🦾
+
 
 
 
